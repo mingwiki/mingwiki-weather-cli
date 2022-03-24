@@ -1,6 +1,6 @@
 {
   "name": "mingwiki-weather-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "天气模块命令行工具",
   "main": "index.js",
   "bin": {
