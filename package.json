@@ -1,0 +1,20 @@
+{
+  "name": "mingwiki-weather-cli",
+  "version": "1.0.1",
+  "description": "天气模块命令行工具",
+  "main": "index.js",
+  "bin": {
+    "mingwiki-weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "mingwiki",
+  "license": "ISC",
+  "dependencies": {
+    "mingwiki-weather": "^1.1.1"
+  }
+}
